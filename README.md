@@ -4,4 +4,5 @@
 - Made to be used in Home Automation for Presense Detection
 - Programmed using ESPHome
 
+1[Preview](https://github.com/AdityaChavan/ESP12fMotionSensor/blob/main/reference.PNG)
 
